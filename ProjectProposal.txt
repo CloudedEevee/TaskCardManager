@@ -1,0 +1,16 @@
+Name: Makayla Sherman-Schatz
+Stack: MERN, possible adjustment to React/Flask
+Github Repo Link: https://github.com/CloudedEevee/TaskCardManager
+Project Name: Task Card Manager
+Project Description: A task manager designed to imitate using index cards to write a task checklist
+MVP Features: 
+	- Task Cards (Collection of day's tasks)
+		- Title
+		- Date
+	- Task Category Title (e.g. Laundry, Homework, Shopping, etc.)
+	- Category Subtasks (e.g. Darks, Lights... Math Problems 12-16, Biology Ch.3-5... Target, Walmart... etc.)
+Bonus Features:
+	- Login/Registration (Create a user to attach the tasks to)
+	- Task Card Storage (hold previous task cards so you can have more than one at a time)
+	- CSS Framework
+	- Responsive Design
