@@ -14,3 +14,7 @@ Bonus Features:
 	- Task Card Storage (hold previous task cards so you can have more than one at a time)
 	- CSS Framework
 	- Responsive Design
+Models: 
+	- Task Categories
+	- Subtasks
+	- Users
